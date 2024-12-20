@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271696355333",
+    "project_id": "notebook2-2ab1a",
+    "storage_bucket": "notebook2-2ab1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271696355333:android:de41b6c264755de6ebbc6c",
+        "android_client_info": {
+          "package_name": "my.tablesalt.notebook2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsRiHQCx7CeWkXjQeRGsB7RLYL-g9DgaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
